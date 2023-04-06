@@ -1,0 +1,19 @@
+/* les utilitaires de tailwindcss */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* police d'écriture utilisée dans l'app */
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap");
+
+/* css global de l'app */
+#root {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: "Rubik", sans-serif;
+}
+
+main {
+  flex: 1 0 auto;
+}
