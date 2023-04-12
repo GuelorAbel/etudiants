@@ -1,6 +1,6 @@
 # etudiants
-Le projet de gestion des étudiants, est une App fullstack qui permet de créer, mettre  jour, de supprimer et le lire les détails d'un étudiant.  
-Il est conçu entirement en Javascript avec en front-end(ReactJs, axios et tailwindcss) et en Back-end(NodeJs, express et mysql).
+Le projet de gestion des étudiants, est une App fullstack qui permet de créer, de mettre à jour, de supprimer et de le lire les détails d'un étudiant.  
+Il est conçu entirement en Javascript avec en front-end(ReactJs, axios et tailwindcss et des bibliothèques tierses...) et en Back-end(NodeJs, express, cors et mysql).
 
 ## Comment ouvrir le projet
 Une fois à la racine, ouvrez le terminal de votre éditeur de texte(IDEE) et divisé le en deux.  
